@@ -12,4 +12,4 @@ f)Centroid decomposition
 
 
 
-Most of the solutions are writtenn in almost similar format so if u can give some time to understand any one of them following the other solutions  shouldn't be that hard.
+Most of the solutions are written in almost similar format so if u can give some time to understand any one of them following the other solutions  shouldn't be that hard.
