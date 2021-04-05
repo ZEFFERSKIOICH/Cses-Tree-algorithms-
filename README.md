@@ -5,7 +5,7 @@ Most of the solutions are direct implementations of simple algortihms easily ava
 Basic Algorithms used:
 a)simple dfs on trees
 b)Topological sorting 
-c)euler tour and tree flatenning
+c)Euler tour and tree flatenning
 d)Heavy Light Decomposition
 e)Small to large Merging
 f)Centroid decomposition
